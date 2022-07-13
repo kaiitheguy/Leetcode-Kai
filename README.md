@@ -5,3 +5,7 @@ BFS: https://www.educative.io/answers/how-to-implement-a-breadth-first-search-in
 DFS: https://www.educative.io/answers/how-to-implement-depth-first-search-in-python
 
 Bisect: https://docs.python.org/3/library/bisect.html
+
+QuickSort: https://www.programiz.com/dsa/quick-sort
+
+MergeSort: https://www.programiz.com/dsa/merge-sort

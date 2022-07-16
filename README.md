@@ -10,6 +10,12 @@ A*: https://www.educative.io/answers/what-is-the-a-star-algorithm
 
 Bisect: https://docs.python.org/3/library/bisect.html
 
+Collections: https://docs.python.org/3/library/collections.html
+
+Priority Queue: https://www.educative.io/answers/what-is-the-python-priority-queue
+
+Heapq: https://docs.python.org/3/library/heapq.html
+
 QuickSort: https://www.programiz.com/dsa/quick-sort
 
 MergeSort: https://www.programiz.com/dsa/merge-sort
@@ -25,3 +31,5 @@ Trie: https://leetcode.com/problems/implement-trie-prefix-tree/discuss/2264668/T
 Big-O: https://www.bigocheatsheet.com/
 
 MSFT: https://sway.office.com/u4mQW6uvFAExO5rQ?ref=Link
+
+SDE Sheet: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/

@@ -1,0 +1,16 @@
+Hi,
+
+My name is Kai. I am currently the senoir associate software engineer in Capital One. 
+I am now in charge of builing the posted transaction data pipeline in Capital One. 
+The pipeline is composed of wathcer lamdba, invoker lambda, preprocessor, 
+transformer and other components. We use Java and the pipeline is built in AWS with 
+Lambda triggering Step Functions and EMR to process data. I implemented the preprocessor 
+and it is running in production now. I am now implementing the transformer. 
+
+I am also pusuing Master of Project Management in 
+Northwestern University becasue I want to improve my leadership skills.
+I had my Bachelor Degree of Computer Science in UC San Diego and I previously worked in Amazon.
+My previous work is a combination of frontend and backend. Like building websites with React JS
+and APIs with Python to performing Data Loading. 
+
+I always want to join Google. 

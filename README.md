@@ -33,3 +33,7 @@ Big-O: https://www.bigocheatsheet.com/
 MSFT: https://sway.office.com/u4mQW6uvFAExO5rQ?ref=Link
 
 SDE Sheet: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+
+System Design: 
+https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723
+https://gist.github.com/vasanthk/485d1c25737e8e72759f

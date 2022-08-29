@@ -26,6 +26,8 @@ Red Black Tree: https://www.programiz.com/dsa/red-black-tree
 
 AVL Tree: https://www.programiz.com/dsa/avl-tree
 
+Huffman Tree：https://www.programiz.com/dsa/huffman-coding
+
 Trie: https://leetcode.com/problems/implement-trie-prefix-tree/discuss/2264668/Thinking-process-Explained-and-Visualized-Enjoy-%3A)
 
 Big-O: https://www.bigocheatsheet.com/

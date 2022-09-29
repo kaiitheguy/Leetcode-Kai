@@ -8,6 +8,8 @@ Dijkstra's: https://www.programiz.com/dsa/dijkstra-algorithm
 
 A*: https://www.educative.io/answers/what-is-the-a-star-algorithm
 
+Topological Sort: https://www.interviewcake.com/concept/java/topological-sort
+
 Bisect: https://docs.python.org/3/library/bisect.html
 
 Collections: https://docs.python.org/3/library/collections.html
@@ -41,3 +43,7 @@ https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723
 https://gist.github.com/vasanthk/485d1c25737e8e72759f
 
 Backtracking: https://www.programiz.com/dsa/backtracking-algorithm
+
+Kadane's Algorithm: https://favtutor.com/blogs/kadanes-algorithm-python
+
+Payment System Design: https://newsletter.pragmaticengineer.com/p/designing-a-payment-system

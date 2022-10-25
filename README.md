@@ -12,6 +12,8 @@ Topological Sort: https://www.interviewcake.com/concept/java/topological-sort
 
 Bisect: https://docs.python.org/3/library/bisect.html
 
+Bisect from Scratch: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/1224587/python-binary-search-bisect_left-and-bisect_right-from-scratch 
+
 Collections: https://docs.python.org/3/library/collections.html
 
 Priority Queue: https://www.educative.io/answers/what-is-the-python-priority-queue
